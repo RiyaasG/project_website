@@ -43,7 +43,7 @@ li {
 	display: inline-block;
 	float: right;
 	color: white;
-	text-decoration: non110
+	text-decoration: none;
 }
 
 .column {
@@ -74,6 +74,7 @@ li {
 	margin-top: 100px 10px 0 0;
 	padding: 5px;
 	font-family: 'Arial';
+	text-decoration-line: none;
 }
 
 #logo {
@@ -98,3 +99,14 @@ li {
   color: #EEA200;
   padding: 5px;
 }
+
+
+abbr {
+	text-decoration-line: none;
+}
+
+a {
+	text-decoration-line: none;
+	color: black;
+}
+
