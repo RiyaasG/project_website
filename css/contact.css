@@ -5,8 +5,9 @@ form {
 
 aside {
 	float: right;
-	padding: 15px;
-	margin-top: 110px;
-	margin-right: 50px;
-	background-color: white;
+	color: white;
+	padding: 159px 60px;
+	margin-top: 10px;
+	margin-right: 0px;
+	background-color: rgba(80,90,45,0.2);
 }
